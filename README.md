@@ -30,6 +30,6 @@ For more informations about me, take a look at my [GitHub Page](https://francois
 I currently work on a [Microsoft Windows](https://www.microsoft.com/windows/) machine but regularly use [GNU/Linux :penguin:](https://www.linux.org/) during my projects. I am also a huge fan of [WSL](https://docs.microsoft.com/windows/wsl/) :fire:. My favortie editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) which I use along with [Sublime Merge](https://www.sublimemerge.com/).
 
 <p>
-	<a href="https://github.com/francois-rozet"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&count_private=true&show_icons=true&hide_title=true" align="left"></a>
+	<a href="https://github.com/francois-rozet"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&count_private=true&show_icons=true&hide_title=true" align="left"></a>
 	<a href="https://github.com/francois-rozet"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-rozet&layout=compact&hide_title=true" align="right"></a>
 </p>
