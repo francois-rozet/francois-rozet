@@ -27,9 +27,9 @@ For more informations about me, take a look at my [GitHub Page](https://francois
 * LaTeX :bird:, Markdown, MS Word
 * Git, GitHub :octocat:, Docker :whale:, SSH
 
-I currently work on a [Microsoft Windows](https://www.microsoft.com/windows/) machine but regularly use [GNU/Linux](https://www.linux.org/) :penguin: during my projects. I am also a huge fan of [WSL](https://docs.microsoft.com/windows/wsl/) :fire:. My favortie editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) which I use along with [Sublime Merge](https://www.sublimemerge.com/).
+I currently work on a [Microsoft Windows](https://www.microsoft.com/windows/) machine but regularly use [GNU/Linux](https://www.linux.org/) :penguin: during my projects. I am also a huge fan of [WSL](https://docs.microsoft.com/windows/wsl/) :fire:. My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) which I use along with [Sublime Merge](https://www.sublimemerge.com/).
 
 <p>
-	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&count_private=true&show_icons=true&hide_title=true" align="left"></a>
+	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&show_icons=true&hide_title=true" align="left"></a>
 	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-rozet&layout=compact&hide_title=true" align="right"></a>
 </p>
