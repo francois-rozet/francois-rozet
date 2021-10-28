@@ -11,8 +11,8 @@
 
 ### I'm François Rozet and I ...
 
-* :mortar_board: Study Data Science and Engineering at the [University of Liège](https://www.uliege.be/) in Belgium
-* :seedling: Learn about Statistics, Deep Neural Networks, Computer Vision and Piano :musical_keyboard:
+* :mortar_board: Am a PhD student in Machine Learning at the [University of Liège](https://www.uliege.be/) in Belgium :black_large_square: :yellow_square: :red_square:
+* :seedling: Learn about Statistics, Deep Neural Networks, Physics and Piano :musical_keyboard:
 * :yum: Am interesed in Physics :telescope:, Computer Science :computer: and High Tech :iphone:
 * :speech_balloon: Speak *French* (native) and *English* (C1)
 * :swimmer: Swim twice a week to stay in shape :muscle:
@@ -24,8 +24,8 @@ For more informations about me, take a look at my [GitHub Page](https://francois
 
 * Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, Java :coffee:, ...
 * PHP :elephant:, HTML, CSS, JavaScript (Vanilla), Bootstrap
-* LaTeX :bird:, Markdown, MS Word
-* Git, GitHub :octocat:, Docker :whale:, SSH
+* Git, GitHub :octocat:, Docker :whale:, Slurm
+* LaTeX :bird:, Overleaf :leaves:, Markdown
 
 I currently work on a [Microsoft Windows](https://www.microsoft.com/windows/) machine but regularly use [GNU/Linux](https://www.linux.org/) :penguin: during my projects. I am also a huge fan of [WSL](https://docs.microsoft.com/windows/wsl/) :fire:. My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) which I use along with [Sublime Merge](https://www.sublimemerge.com/).
 
