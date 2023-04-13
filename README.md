@@ -15,19 +15,19 @@
 * :seedling: Learn about Statistics, Deep Neural Networks, Physics and Piano :musical_keyboard:
 * :yum: Am interesed in Physics :telescope:, Computer Science :computer: and High Tech :iphone:
 * :speech_balloon: Speak *French* (native) and *English* (C1)
-* :swimmer: Swim twice a week to stay in shape :muscle:
-* :new_moon: Prefer dark themes for my eyes :eyes:
+* :climbing: Climb twice a week to stay in shape :muscle:
 
 For more informations about me, take a look at my [GitHub Page](https://francois-rozet.github.io/).
 
 ### Tech Stack
 
+* Linux :penguin:, Windows :window:
 * Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, Java :coffee:, ...
 * PHP :elephant:, HTML, CSS, JavaScript (Vanilla), Bootstrap
 * Git, GitHub :octocat:, Docker :whale:, Slurm
 * LaTeX :bird:, Overleaf :leaves:, Markdown
 
-I currently work on a [Microsoft Windows](https://www.microsoft.com/windows/) machine but regularly use [GNU/Linux](https://www.linux.org/) :penguin: during my projects. I am also a huge fan of [WSL](https://docs.microsoft.com/windows/wsl/) :fire:. My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) which I use along with [Sublime Merge](https://www.sublimemerge.com/).
+My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) and I use [Sublime Merge](https://www.sublimemerge.com/) for version control.
 
 <p>
 	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&show_icons=true&hide_title=true" align="left"></a>
