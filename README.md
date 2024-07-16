@@ -1,9 +1,9 @@
 ## Hello, World!
 
+<a href="https://github.com/francois-rozet/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+<a href="https://twitter.com/FrancoisRozet/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://www.linkedin.com/in/francois-rozet/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://github.com/francois-rozet/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
-</a>
-<a href="https://stackoverflow.com/users/12172457/francois/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>
+<a href="https://stackoverflow.com/users/12172457/francois/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
 
 <br>
 
