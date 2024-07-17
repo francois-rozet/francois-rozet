@@ -10,7 +10,7 @@
 ### I'm François Rozet and I ...
 
 * :mortar_board: Pursue a PhD in Machine Learning at the [University of Liège](https://www.uliege.be/) in Belgium :black_large_square: :yellow_square: :red_square:
-* :seedling: Learn about Statistics, Deep Neural Networks, Physics and Piano :musical_keyboard:
+* :seedling: Learn about Statistics, Deep Neural Networks and Physics :atom_symbol:
 * :yum: Am interesed in Computer Science :computer:, Physics :telescope: and High Tech :iphone:
 * :speech_balloon: Speak *French* (native) and *English* (C1)
 * :climbing: Climb twice a week to stay in shape :muscle:
