@@ -19,11 +19,11 @@ For more informations about me, take a look at my [GitHub Page](https://francois
 
 ### Tech Stack
 
-* Linux :penguin:, Windows :window:
-* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, Java :coffee:, ...
-* PHP :elephant:, HTML, CSS, JavaScript (Vanilla), Bootstrap
+* Python :snake: (NumPy, PyTorch :fire:, JAX, Pandas :panda_face:, ...), C/C++, Julia, ...
+* PHP :elephant:, HTML, CSS, JavaScript (vanilla), Bootstrap
 * Git, GitHub :octocat:, Docker :whale:, Slurm
-* LaTeX :bird:, Overleaf :leaves:, Markdown
+* Linux :penguin:, Windows :window:
+* LaTeX :bird:, Overleaf :leaves:, Typst, Markdown
 
 My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) and I use [Sublime Merge](https://www.sublimemerge.com/) for version control.
 
