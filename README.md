@@ -28,6 +28,6 @@ For more informations about me, take a look at my [GitHub Page](https://francois
 My favorite editors are [Sublime Text](https://www.sublimetext.com/) and [VS Code](https://code.visualstudio.com/) and I use [Sublime Merge](https://www.sublimemerge.com/) for version control.
 
 <table><tr>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=francois-rozet&show_icons=true&hide_title=true&hide_border=true"></a></td>
-    <td width="20%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-rozet&layout=compact&hide_title=true&hide_border=true"></a></td>
+    <td width="30%" align="center"><a href="#/"><img src="https://github-stats-extended.vercel.app/api?username=francois-rozet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false"></a></td>
+    <td width="20%" align="center"><a href="#/"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=francois-rozet&layout=compact&hide_title=true&hide_border=true"></a></td>
 </tr></table>
